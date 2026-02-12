@@ -31,7 +31,7 @@ A complete ROS2 Humble package for running ORB-SLAM3 monocular SLAM with Clearpa
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/orb_slam3_jackal.git
+git clone https://github.com/ArturPrentki/orb_slam3_jackal.git
 cd orb_slam3_jackal
 
 # Create data directories for persistence
@@ -88,7 +88,7 @@ mkdir -p ~/clearpath_ws/src
 cd ~/clearpath_ws/src
 
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/orb_slam3_jackal.git ros2_orb_slam3
+git clone https://github.com/ArturPrentki/orb_slam3_jackal.git ros2_orb_slam3
 
 # Install Pangolin
 cd ~/Documents
